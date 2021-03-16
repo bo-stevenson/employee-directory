@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "SpongeBob",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea",
+      "email": "spongebob@gmail.com",
+      "favoriteFood": "Krabby Patty"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Krabs",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor",
+      "email": "mkrabs@gmail.com",
+      "favoriteFood": "Krabby Patty"
+    },
+    {
+      "id": 3,
+      "name": "Squidward",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head",
+      "email": "squidward@gmail.com",
+      "favoriteFood": "Krusty Krab Pizza"
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory",
+      "email": "morgan@gmail.com",
+      "favoriteFood": "Pancakes"
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "occupation": "A Cowardly Dog",
+      "location": "Nowhere, Kansas",
+      "email": "afraid@gmail.com",
+      "favoriteFood": "Waffles"
+    },
+    {
+      "id": 6,
+      "name": "Doug Funnie",
+      "occupation": "Student",
+      "location": "Bluffington",
+      "email": "mrfunny@gmail.com",
+      "favoriteFood": "Mac and Cheese"
+    },
+    {
+      "id": 7,
+      "name": "Bugs Bunny",
+      "occupation": "Looney Toon",
+      "location": "A Rabbit Burrow",
+      "email": "bugsbunny@gmail.com",
+      "favoriteFood": "Carrots"
+    },
+    {
+      "id": 8,
+      "name": "Johnny Bravo",
+      "occupation": "Ladies Man",
+      "location": "Aron City",
+      "email": "johnnyb@gmail.com",
+      "favoriteFood": "Krusty Krab Pizza"
+    },
+    {
+      "id": 9,
+      "name": "Tommy Pickles",
+      "occupation": "Adventurer",
+      "location": "California",
+      "email": "tpickles@gmail.com",
+      "favoriteFood": "Carrots"
+    },
+    {
+      "id": 10,
+      "name": "Rocko",
+      "occupation": "Cashier",
+      "location": "O-Town, California",
+      "email": "rocko@gmail.com",
+      "favoriteFood": "Chokey Chicken"
+    },
+    {
+      "id": 11,
+      "name": "Captain Planet",
+      "occupation": "Superhero",
+      "location": "Earth",
+      "email": "mrplanet@gmail.com",
+      "favoriteFood": "Kale"
+    },
+    {
+      "id": 12,
+      "name": "Ickis",
+      "occupation": "Ahhhh! A Real Monster!",
+      "location": "Under a City Dump",
+      "email": "ickis@gmail.com",
+      "favoriteFood": "Boogers"
+    }
+  ]

@@ -1,5 +1,7 @@
 import React from "react";
 import TableHeader from "./components/TableHeader/TableHeader.js";
+import SearchForm from "./components/SearchForm/SearchForm.js";
+import TableBody from "./components/TableBody/TableBody.js";
 
 function App() {
   return (

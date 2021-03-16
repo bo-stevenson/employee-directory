@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import TableHeader from "./components/TableHeader/TableHeader.js";
 
 function App() {
   return (

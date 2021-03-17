@@ -3,7 +3,7 @@ import React from "react";
 
 function SearchForm(props) {
     return(
-        <div className = "container">
+        
             <nav className= "navbar navbar-secondary bg-secondary">
                 <span className="navbar-brand mb-0 h1" id="heading"> Employee Directory</span>
                 <form className= "form-inline">
@@ -19,7 +19,7 @@ function SearchForm(props) {
                     </input>
                 </form>
             </nav>
-        </div>
+        
     )
 }
 

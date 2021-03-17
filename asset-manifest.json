@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bo-stevenson/employee-directory/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/bo-stevenson/employee-directory/static/js/main.b39121ae.chunk.js",
+    "main.js.map": "/bo-stevenson/employee-directory/static/js/main.b39121ae.chunk.js.map",
+    "runtime-main.js": "/bo-stevenson/employee-directory/static/js/runtime-main.1c55fb1e.js",
+    "runtime-main.js.map": "/bo-stevenson/employee-directory/static/js/runtime-main.1c55fb1e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/bo-stevenson/employee-directory/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d7e4d49a.chunk.js": "/bo-stevenson/employee-directory/static/js/2.d7e4d49a.chunk.js",
+    "static/js/2.d7e4d49a.chunk.js.map": "/bo-stevenson/employee-directory/static/js/2.d7e4d49a.chunk.js.map",
+    "static/js/3.ec00afeb.chunk.js": "/bo-stevenson/employee-directory/static/js/3.ec00afeb.chunk.js",
+    "static/js/3.ec00afeb.chunk.js.map": "/bo-stevenson/employee-directory/static/js/3.ec00afeb.chunk.js.map",
+    "index.html": "/bo-stevenson/employee-directory/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/bo-stevenson/employee-directory/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/bo-stevenson/employee-directory/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d7e4d49a.chunk.js.LICENSE.txt": "/bo-stevenson/employee-directory/static/js/2.d7e4d49a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c55fb1e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d7e4d49a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b39121ae.chunk.js"
+  ]
+}

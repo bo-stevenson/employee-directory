@@ -22,7 +22,7 @@ This is an employee directory application using React that allows the user to lo
 
 ## Installation
 
- none needed [Deployed Page]
+ none needed [Deployed Page](https://bo-stevenson.github.io/employee-directory/)
 
 ## Usage
 
@@ -39,6 +39,8 @@ none
 ## Screenshots
 
 ![Screenshot](assets/images/screenshot.png)
+![Screenshot](assets/images/screenshot-1.png)
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
